@@ -18,13 +18,13 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="images/js2.png" alt="Logo" width="100" height="100">
+    <img src="images/HTML.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Glowing Bulb effect using JS</h3>
 
   <p align="center">
-    The project is written with using HTML , CSS and JS
+    The project is written with using HTML , CSS
     <br />
   </p>
 </p>
