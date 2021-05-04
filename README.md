@@ -6,7 +6,6 @@
 -->
 
 
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -40,7 +39,7 @@
 
 
 
-### Built With
+### Built With ⚡
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [HTML](https://www.w3schools.com/html/)
