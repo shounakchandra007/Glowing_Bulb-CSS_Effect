@@ -43,7 +43,7 @@
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [HTML]
+* [HTML](www.google.com)
 * [CSS]
 * [JS]
 
@@ -67,6 +67,8 @@ No prerequisites required
 2. Open with VS code editor
 
 3. Run using live server extension
+
+4. Or simply open the index.html file using any browser like google chorme or firefox
 
 
 
