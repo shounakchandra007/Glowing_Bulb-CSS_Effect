@@ -18,7 +18,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="images/HTML.png" alt="Logo" width="792" height="612">
+    <img src="images/HTML.png" alt="Logo" width="380" height="200">
   </a>
 
   <h3 align="center">Glowing Bulb effect using JS</h3>
