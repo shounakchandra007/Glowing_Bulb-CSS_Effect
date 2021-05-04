@@ -32,16 +32,15 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project ❤🖤
 
 ![Product Name Screen Shot][product-screenshot]
 ![Product2 Name Screen Shot][product2-screenshot]
 
 
 
-### Built With ⚡
+### Built With ⚡🛠
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [JavaScript](https://www.w3schools.com/js/default.asp)
@@ -49,7 +48,7 @@ This section should list any major frameworks that you built your project using.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started ☢☢
 
 Install a code editor like VS code or sublime text in your computer. Install a extension named live server. Run it using live server
 
@@ -69,70 +68,10 @@ No prerequisites required
 
 4. Or simply open the index.html file using any browser like google chorme or firefox
 
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
-## Contact
+## Contact 👨🏿‍🤝‍👨🏾
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
-
+Shounak Chandra - [@DevShounak](https://twitter.com/DevShounak) - shounakchandra.31@gmail.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
