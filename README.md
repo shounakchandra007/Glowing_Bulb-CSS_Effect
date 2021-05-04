@@ -43,9 +43,9 @@
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [HTML](www.google.com)
-* [CSS]
-* [JS]
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/default.asp)
+* [JavaScript](https://www.w3schools.com/js/default.asp)
 
 
 
