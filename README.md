@@ -21,7 +21,7 @@
     <img src="images/HTML.png" alt="Logo" width="200" height="180">
   </a>
 
-  <h3 align="center">Glowing Bulb effect using JS</h3>
+  <h3 align="center">Glowing Bulb effect using HTML and advance CSS</h3>
 
   <p align="center">
     The project is written with using HTML , CSS
